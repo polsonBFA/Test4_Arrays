@@ -4,10 +4,10 @@ class Main {
   }
 
 
-  /* Question 3: In Scrabble®, different letters are
-   * assigned different numbers of points:Write a method
-   * computeScore(String word) that returns the score for a
-   * word without using any if statements. */
+  /* Question 3: In Scrabble®, different letters are assigned different numbers of points:
+   * Write a method computeScore(String word) that returns the score for a word without 
+   * using any if statements. 
+   */
   
 
   
